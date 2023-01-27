@@ -1,4 +1,4 @@
-# Dynamic Speed Limit
+# Dynamic Speed Limits
 The idea, called Dynamic Speed Limits, will provide a new and innovative solution to the problem of maintaining safe and efficient traffic flow on busy roads and highways. Our speed limit signs will use real-time weather and traffic data to dynamically adjust the posted speed limit, ensuring that drivers are always aware of the appropriate speed for the conditions.
 
 Our target market is state and local governments, as well as private organizations responsible for managing large road networks. The demand for our product is high, as traditional static speed limit signs are often ineffective in ensuring safe and efficient traffic flow. By using real-time data to adjust the posted speed limit, our product will provide a valuable service to these organizations.
